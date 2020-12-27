@@ -1,0 +1,66 @@
+
+body{
+    background-color: rgb(3, 55, 28);
+}
+
+
+
+nav {
+    background-color: rgb(3, 55, 28);
+
+}
+
+
+.jumbotron1{
+    min-height: 500px;
+    background-image: url(images/fern-1250903_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+iframe{
+    border-style: solid;
+    border-color: black;
+}
+h1{
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.media1{
+    padding-top: 200px;
+}
+h2{
+    padding-left: 50px; 
+}
+h3{
+    padding-left: 50px;
+}
+h5{
+    padding-top: 20px;
+    font-weight: bold;
+}
+footer{
+    background-color: black;
+   
+}
+.jumbotron6{
+    background-color: rgb(3, 55, 28);
+}
+.jumbotron6 h1{
+    padding-top: 50px;
+}
+.mybox1 p{
+    height: 150px;
+    padding-top: 10px;
+    font-size: x-large;
+   text-align: center;
+   align-items: center;
+   vertical-align: middle;
+
+}
+.mybox1 img{
+    padding-top: 50px;
+   padding-left: 50px;
+   display: block;
+   position: relative;
+}
